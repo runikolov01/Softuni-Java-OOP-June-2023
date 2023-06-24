@@ -1,4 +1,4 @@
-package E03CardsWithPower;
+package T01WorkingWithAbstraction.E03CardsWithPower;
 
 public enum CardSuits {
     CLUBS(0),
