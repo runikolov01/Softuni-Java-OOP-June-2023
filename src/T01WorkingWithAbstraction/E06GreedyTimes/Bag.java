@@ -1,4 +1,4 @@
-package E06GreedyTimes;
+package T01WorkingWithAbstraction.E06GreedyTimes;
 
 import java.util.HashMap;
 import java.util.Map;

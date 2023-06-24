@@ -1,4 +1,4 @@
-package E06GreedyTimes;
+package T01WorkingWithAbstraction.E06GreedyTimes;
 
 import java.util.Scanner;
 import static java.util.stream.IntStream.iterate;
