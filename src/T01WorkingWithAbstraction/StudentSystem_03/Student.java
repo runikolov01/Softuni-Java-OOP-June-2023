@@ -1,4 +1,4 @@
-package StudentSystem_03;
+package T01WorkingWithAbstraction.StudentSystem_03;
 
 public class Student {
     private String name;
