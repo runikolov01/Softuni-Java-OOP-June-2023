@@ -1,4 +1,4 @@
-package E04NeedForSpeed;
+package T03Inheritance.E04NeedForSpeed;
 
 public class RaceMotorcycle extends Motorcycle {
     private static final double DEFAULT_FUEL_CONSUMPTION = 8;

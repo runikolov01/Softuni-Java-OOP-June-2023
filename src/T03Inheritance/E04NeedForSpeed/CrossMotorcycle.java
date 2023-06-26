@@ -1,4 +1,4 @@
-package E04NeedForSpeed;
+package T03Inheritance.E04NeedForSpeed;
 
 public class CrossMotorcycle extends Motorcycle{
 

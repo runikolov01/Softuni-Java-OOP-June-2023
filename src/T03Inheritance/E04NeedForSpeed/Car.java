@@ -1,4 +1,4 @@
-package E04NeedForSpeed;
+package T03Inheritance.E04NeedForSpeed;
 
 public class Car extends Vehicle{
     private static final double DEFAULT_FUEL_CONSUMPTION = 3;
