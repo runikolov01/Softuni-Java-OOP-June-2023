@@ -1,4 +1,4 @@
-package E02MultipleImplementation;
+package T04InterfacesAndAbstraction.E02MultipleImplementation;
 
 import java.lang.reflect.Method;
 import java.util.Arrays;

@@ -1,0 +1,6 @@
+package T04InterfacesAndAbstraction.E03BirthdayCelebrations;
+
+public interface Birthable {
+    String getBirthDate();
+
+}

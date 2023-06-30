@@ -1,4 +1,4 @@
-package E02MultipleImplementation;
+package T04InterfacesAndAbstraction.E03BirthdayCelebrations;
 
 public class Citizen implements Person, Identifiable, Birthable {
     private String name;
@@ -31,5 +31,10 @@ public class Citizen implements Person, Identifiable, Birthable {
     @Override
     public String getId() {
         return this.id;
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
     }
 }
