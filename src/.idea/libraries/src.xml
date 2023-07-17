@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/StudentSystem_03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L02SalaryIncrease.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E03BirthdayCelebrations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E01ClassBoxDataValidation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E04PizzaCalories.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L02HierarchicalInheritance.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E06GreedyTimes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L03Animals.zip!/" />
+      <root url="jar://$PROJECT_DIR$/animals.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ShoppingSpree.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E02CardRank.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E02VehiclesExtension.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L03SayHello.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E01DefineAnInterfacePerson.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E01Vehicles.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L02SortByNameAndAge.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E02AnimalFarm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L05BorderControl.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E04NeedForSpeed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L01MathOperation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/HotelReservation_04.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L04WildFarm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PointInRectangle_02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E02MultipleImplementation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L01SingleInheritance.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L06Ferrari.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L03ValidationData.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E01Person.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L04FirstAndReserveTeam.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E01CardSuit.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E05JediGalaxy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L01Car.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E03CardsWithPower.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E04TrafficLights.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E05FootballTeamGenerator.zip!/" />
+      <root url="jar://$PROJECT_DIR$/telephony.zip!/" />
+      <root url="jar://$PROJECT_DIR$/car.zip!/" />
+      <root url="jar://$PROJECT_DIR$/restaurant.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E02Zoo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hero.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L04StackOfStrings.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L02Shapes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/L04SayHelloExtended.zip!/" />
+      <root url="jar://$PROJECT_DIR$/E04FoodShortage.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
